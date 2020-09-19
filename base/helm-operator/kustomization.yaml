@@ -1,4 +1,5 @@
 resources:
+  - crds.yaml
   - namespace.yaml
   - rbac.yaml
   - deployment.yaml
